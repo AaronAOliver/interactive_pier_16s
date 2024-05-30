@@ -1,9 +1,33 @@
-sample-id	collection_timestamp	day_relative_to_fmt	description	disease_state	host_age	host_age_units	host_body_mass_index	host_height	host_height_units	host_subject_id	host_weight	host_weight_units	race	sex
-ERR1883195	2011-10-24	26	Donor 11	healthy	Restricted access	years	Restricted access	Restricted access	m	Donor	Restricted access	kg	Restricted access	Restricted access
-ERR1883207	2012-01-12	44	Donor 12	healthy	Restricted access	years	Restricted access	Restricted access	m	Donor	Restricted access	kg	Restricted access	Restricted access
-ERR1883212	2012-10-10	135	Donor 14	healthy	Restricted access	years	Restricted access	Restricted access	m	Donor	Restricted access	kg	Restricted access	Restricted access
-ERR1883214	2011-07-26	0	Day 0 CD1	Pre-FMT	39	years	29.3	165.1	m	CD1	80.1	kg	white	female
-ERR1883225	2011-07-26	54	Donor CD1	healthy	Restricted access	years	Restricted access	Restricted access	m	Donor	Restricted access	kg	Restricted access	Restricted access
-ERR1883240	2012-02-14	pre-FMT	CD9 pre-FMT	Pre-FMT	47	years	35.5	1.55	m	CD9	85.1	kg	white	female
-ERR1883250	2011-12-23	pre-FMT	CD13 pre-FMT	Pre-FMT	53	years	34.4	1.56	m	CD13	83.9	kg	white	female
-ERR1883294	2011-09-29	0	Day 0 CD3	Pre-FMT	61	years	32.5	1.727	m	CD3	97.3	kg	white	male
+sample_name	sample_num	description	location	location_code	time	data
+PIER01	1	end of pier  (sampling room) 1	scripps pier	SP	9:20	6/2/2023
+PIER02	2	end of pier  (sampling room) 2	scripps pier	SP	9:20	6/2/2023
+PIER03	3	small settling tank	scripps pier	SP	9:33	6/2/2023
+PIER04	4	small settling tank	scripps pier	SP	9:35	6/2/2023
+PIER05	5	parabolic screen	scripps pier	SP	9:42	6/2/2023
+PIER06	6	tnk-01 settling inflow (right side)	scripps pier	SP	9:45	6/2/2023
+PIER07	7	tnk-01 settling inflow (left side)	scripps pier	SP	9:46	6/2/2023
+PIER08	8	tnk-01 settling outflow	scripps pier	SP	9:47	6/2/2023
+PIER09	9	pier flume panel 2; flume start	scripps pier	SP	9:53	6/2/2023
+PIER10	10	pier flume panel 47	scripps pier	SP	9:58	6/2/2023
+PIER11	11	pier flume panel 92	scripps pier	SP	10:02	6/2/2023
+PIER12	12	pier flume panel 139	scripps pier	SP	10:09	6/2/2023
+PIER13	13	pier flume panel 181; pier gate	scripps pier	SP	10:15	6/2/2023
+PIER14	14	pier settling tank outflow	scripps pier	SP	10:24	6/2/2023
+PIER15	15	sand filter #2	scripps pier	SP	10:27	6/2/2023
+PIER16	16	uphill holding tank #2	uphill holding tanks	UT	10:34	6/2/2023
+PIER17	17	uphill holding tank #1	uphill holding tanks	UT	10:37	6/2/2023
+PIER18	18	kaplan holding tank inflow	kaplan hall experimental aquarium	KH	10:53	6/2/2023
+PIER19	19	tuna crab holding tank	kaplan hall experimental aquarium	KH	10:56	6/2/2023
+PIER20	20	box crab holding tank	kaplan hall experimental aquarium	KH	11:02	6/2/2023
+PIER21	21	kaplan outflow	kaplan hall experimental aquarium	KH	11:06	6/2/2023
+PIER22	22	kaplan inflow / inlet	hubbs hall experimental aquarium	HH	11:18	6/2/2023
+PIER23	23	kelp tank	hubbs hall experimental aquarium	HH	11:20	6/2/2023
+PIER24	24	abalone tank	hubbs hall experimental aquarium	HH	11:22	6/2/2023
+PIER25	25	urchin (litechinus) table	hubbs hall experimental aquarium	HH	11:17	6/2/2023
+PIER26	26	fish (seabass?) tank	hubbs hall experimental aquarium	HH	11:25	6/2/2023
+PIER27	27	touch tank	hubbs hall experimental aquarium	HH	11:27	6/2/2023
+PIER28	28	holding tank (table)	hubbs hall experimental aquarium	HH	11:30	6/2/2023
+PIER29	29	hubbs outflow	beach outflows	BO	11:37	6/2/2023
+PIER30	30	kaplan outflow	beach outflows	BO	11:40	6/2/2023
+NEG01	31	negative 1	idk	NG		
+NEG02	32	negative 2	idk	NG		
